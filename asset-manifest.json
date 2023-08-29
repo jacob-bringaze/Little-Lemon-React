@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-React/static/css/main.394eec17.css",
+    "main.js": "/Little-Lemon-React/static/js/main.ace9fd4e.js",
+    "static/js/787.dc30a2df.chunk.js": "/Little-Lemon-React/static/js/787.dc30a2df.chunk.js",
+    "static/media/restaurantchef.jpg": "/Little-Lemon-React/static/media/restaurantchef.4b4c2d26b514db32e8fc.jpg",
+    "static/media/restauranfood.jpg": "/Little-Lemon-React/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/Little-Lemon-React/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/logo-white.png": "/Little-Lemon-React/static/media/logo-white.d09eb2af6c5a2225eedf.png",
+    "static/media/Logo.svg": "/Little-Lemon-React/static/media/Logo.6c132dfefa69396bba43f72aa595e62f.svg",
+    "static/media/delivery.svg": "/Little-Lemon-React/static/media/delivery.51c0da9db08aea9794adf2fd86bd007a.svg",
+    "static/media/star.svg": "/Little-Lemon-React/static/media/star.d2bfb195dd145c54fb07c2d9f67dc4b1.svg",
+    "index.html": "/Little-Lemon-React/index.html",
+    "static/media/hamburger.svg": "/Little-Lemon-React/static/media/hamburger.0da6f67ced800ab909f63d5144de37ee.svg",
+    "main.394eec17.css.map": "/Little-Lemon-React/static/css/main.394eec17.css.map",
+    "main.ace9fd4e.js.map": "/Little-Lemon-React/static/js/main.ace9fd4e.js.map",
+    "787.dc30a2df.chunk.js.map": "/Little-Lemon-React/static/js/787.dc30a2df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394eec17.css",
+    "static/js/main.ace9fd4e.js"
+  ]
+}
