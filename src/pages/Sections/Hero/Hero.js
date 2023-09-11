@@ -9,7 +9,7 @@ const Hero = () => {
   const navigate = useNavigate();
   const onClickReserve = () => {
     navigate(pages.get("reservations").path);
-  }
+  };
 
   return (
     <div className="hero-background">
@@ -18,12 +18,14 @@ const Hero = () => {
           <h1 className="title">Little Lemon</h1>
           <h2 className="subtitle">Chicago</h2>
           <p>
-            Nestled in the heart of bustling Chicago, Little Lemon is where
-            modern flair meets cozy nostalgia. Our diverse, artisanal menu,
-            featuring delectable bruschettas, succulent burgers, and refreshing
-            Greek salads, is a testament to our belief that food is an art.
+            We are a family owned Mediterranean restaurant, focused on
+            traditional recipes served with a modern twist.
           </p>
-          <Button title={"Reserve a table"} onClick={onClickReserve} />
+          <Button
+            className="hero-button"
+            title={"Reserve a table"}
+            onClick={onClickReserve}
+          />
         </div>
 
         <img

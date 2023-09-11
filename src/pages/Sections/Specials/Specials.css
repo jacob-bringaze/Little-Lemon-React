@@ -21,7 +21,7 @@
 }
 
 .specials-title {
-  line-height: 10px;
+  line-height: 20px;
 }
 
 @media screen and (max-width: 767px) {
@@ -39,7 +39,7 @@
     grid-template: "info image";
     grid-template-columns: 85fr 15fr;
     margin-bottom: 2rem;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
   }
 
   .header-list {

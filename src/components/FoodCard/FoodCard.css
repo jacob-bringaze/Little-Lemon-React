@@ -24,7 +24,7 @@
   font-size: 16px;
   font-weight: 400;
   margin: 0;
-  color: #495E57;
+  color: #495e57;
 }
 
 .food-card-price {
@@ -62,20 +62,12 @@
 .food-card-delivery-title {
   font-size: 16px;
   font-weight: 600;
-  margin: 0 0.5rem 0 0 ;
+  margin: 0 0.5rem 0 0;
   color: black;
 }
+
 @media screen and (max-width: 767px) {
   .food-card {
-    background: #edefee;
-    border-radius: 16px;
-    height: 100%;
-    min-height: 27rem;
-    width: 18rem;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 1rem;
+    display: grid;
   }
-  
 }
